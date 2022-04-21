@@ -1,0 +1,36 @@
+E:\Projects\.NET\SudokuOOP\bin\Debug\net5.0-windows\SudokuOOP.exe
+E:\Projects\.NET\SudokuOOP\bin\Debug\net5.0-windows\SudokuOOP.deps.json
+E:\Projects\.NET\SudokuOOP\bin\Debug\net5.0-windows\SudokuOOP.runtimeconfig.json
+E:\Projects\.NET\SudokuOOP\bin\Debug\net5.0-windows\SudokuOOP.runtimeconfig.dev.json
+E:\Projects\.NET\SudokuOOP\bin\Debug\net5.0-windows\SudokuOOP.dll
+E:\Projects\.NET\SudokuOOP\bin\Debug\net5.0-windows\ref\SudokuOOP.dll
+E:\Projects\.NET\SudokuOOP\bin\Debug\net5.0-windows\SudokuOOP.pdb
+E:\Projects\.NET\SudokuOOP\obj\Debug\net5.0-windows\SudokuOOP.csproj.AssemblyReference.cache
+E:\Projects\.NET\SudokuOOP\obj\Debug\net5.0-windows\SudokuOOP.Form1.resources
+E:\Projects\.NET\SudokuOOP\obj\Debug\net5.0-windows\SudokuOOP.csproj.GenerateResource.cache
+E:\Projects\.NET\SudokuOOP\obj\Debug\net5.0-windows\SudokuOOP.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\.NET\SudokuOOP\obj\Debug\net5.0-windows\SudokuOOP.AssemblyInfoInputs.cache
+E:\Projects\.NET\SudokuOOP\obj\Debug\net5.0-windows\SudokuOOP.AssemblyInfo.cs
+E:\Projects\.NET\SudokuOOP\obj\Debug\net5.0-windows\SudokuOOP.csproj.CoreCompileInputs.cache
+E:\Projects\.NET\SudokuOOP\obj\Debug\net5.0-windows\SudokuOOP.dll
+E:\Projects\.NET\SudokuOOP\obj\Debug\net5.0-windows\ref\SudokuOOP.dll
+E:\Projects\.NET\SudokuOOP\obj\Debug\net5.0-windows\SudokuOOP.pdb
+E:\Projects\.NET\SudokuOOP\obj\Debug\net5.0-windows\SudokuOOP.genruntimeconfig.cache
+D:\WinUsers\Ksenia\Desktop\Коледж\4-ий курс\Конструювання програмного забезпечення\SudokuOOP\bin\Debug\net5.0-windows\SudokuOOP.exe
+D:\WinUsers\Ksenia\Desktop\Коледж\4-ий курс\Конструювання програмного забезпечення\SudokuOOP\bin\Debug\net5.0-windows\SudokuOOP.deps.json
+D:\WinUsers\Ksenia\Desktop\Коледж\4-ий курс\Конструювання програмного забезпечення\SudokuOOP\bin\Debug\net5.0-windows\SudokuOOP.runtimeconfig.json
+D:\WinUsers\Ksenia\Desktop\Коледж\4-ий курс\Конструювання програмного забезпечення\SudokuOOP\bin\Debug\net5.0-windows\SudokuOOP.runtimeconfig.dev.json
+D:\WinUsers\Ksenia\Desktop\Коледж\4-ий курс\Конструювання програмного забезпечення\SudokuOOP\bin\Debug\net5.0-windows\SudokuOOP.dll
+D:\WinUsers\Ksenia\Desktop\Коледж\4-ий курс\Конструювання програмного забезпечення\SudokuOOP\bin\Debug\net5.0-windows\ref\SudokuOOP.dll
+D:\WinUsers\Ksenia\Desktop\Коледж\4-ий курс\Конструювання програмного забезпечення\SudokuOOP\bin\Debug\net5.0-windows\SudokuOOP.pdb
+D:\WinUsers\Ksenia\Desktop\Коледж\4-ий курс\Конструювання програмного забезпечення\SudokuOOP\obj\Debug\net5.0-windows\SudokuOOP.csprojAssemblyReference.cache
+D:\WinUsers\Ksenia\Desktop\Коледж\4-ий курс\Конструювання програмного забезпечення\SudokuOOP\obj\Debug\net5.0-windows\SudokuOOP.Form1.resources
+D:\WinUsers\Ksenia\Desktop\Коледж\4-ий курс\Конструювання програмного забезпечення\SudokuOOP\obj\Debug\net5.0-windows\SudokuOOP.csproj.GenerateResource.cache
+D:\WinUsers\Ksenia\Desktop\Коледж\4-ий курс\Конструювання програмного забезпечення\SudokuOOP\obj\Debug\net5.0-windows\SudokuOOP.GeneratedMSBuildEditorConfig.editorconfig
+D:\WinUsers\Ksenia\Desktop\Коледж\4-ий курс\Конструювання програмного забезпечення\SudokuOOP\obj\Debug\net5.0-windows\SudokuOOP.AssemblyInfoInputs.cache
+D:\WinUsers\Ksenia\Desktop\Коледж\4-ий курс\Конструювання програмного забезпечення\SudokuOOP\obj\Debug\net5.0-windows\SudokuOOP.AssemblyInfo.cs
+D:\WinUsers\Ksenia\Desktop\Коледж\4-ий курс\Конструювання програмного забезпечення\SudokuOOP\obj\Debug\net5.0-windows\SudokuOOP.csproj.CoreCompileInputs.cache
+D:\WinUsers\Ksenia\Desktop\Коледж\4-ий курс\Конструювання програмного забезпечення\SudokuOOP\obj\Debug\net5.0-windows\SudokuOOP.dll
+D:\WinUsers\Ksenia\Desktop\Коледж\4-ий курс\Конструювання програмного забезпечення\SudokuOOP\obj\Debug\net5.0-windows\ref\SudokuOOP.dll
+D:\WinUsers\Ksenia\Desktop\Коледж\4-ий курс\Конструювання програмного забезпечення\SudokuOOP\obj\Debug\net5.0-windows\SudokuOOP.pdb
+D:\WinUsers\Ksenia\Desktop\Коледж\4-ий курс\Конструювання програмного забезпечення\SudokuOOP\obj\Debug\net5.0-windows\SudokuOOP.genruntimeconfig.cache
